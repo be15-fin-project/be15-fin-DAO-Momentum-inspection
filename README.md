@@ -1062,7 +1062,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 
 
 <details>
-<summary> 📁 momentum-dao-be</summary>
+<summary> 📁 momentum-dao-fe</summary>
 
 ```
 
