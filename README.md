@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td align="center"><img src="./assets/images/배찌.png" height="100" /></td>
-    <td align="center"><img src="./assets/images/후우.png" height="100" /></td>
+    <td align="center"><img src="./assets/images/모스.png" height="100" /></td>
   </tr>
   <tr>
     <td align="center"><b>멘토님</b></td>
