@@ -6,6 +6,7 @@
 3. [🛠️ 기술 스택](#3-%EF%B8%8F-기술-스택)
 4. [📁 파일 구조](#4--파일-구조)
 5. [📊 산출물](#5--산출물)
+    - 
     - [📊 WBS](#1--wbs-작업-분배-및-일정)
     - [📄 요구사항 정의](#2--요구사항-정의서)
     - [🔄 플로우 차트 & UML](#3--플로우-차트--uml)
@@ -1244,8 +1245,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 ### 11. 🧪 테스트 케이스 상세
 
 - 메인 테스트
-
-<img src="assets/testcases/test/test_formal.gif" alt="메인 테스트"/>
+  <img src="assets/testcases/test/test_formal.gif" alt="메인 테스트"/>
 
 <br>
 
@@ -1253,10 +1253,10 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <summary>출퇴근</summary>
 
 - 출근 등록
-<img src="assets/testcases/work/work-create.gif" alt="출근 등록"/>
+  <img src="assets/testcases/work/work-creat`e.gif" alt="출근 등록"/>
 
 - 퇴근 등록
-<img src="assets/testcases/work/work-update.gif" alt="퇴근 등록"/>
+  <img src="assets/testcases/work/work-update.gif" alt="퇴근 등록"/>
 
 </details>
 
@@ -1266,7 +1266,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <summary>사원 관리</summary>
 
 - 사원 목록 조회
-<img src="assets/testcases/employee/emp-list.gif" alt="사원 목록 조회"/>
+  <img src="assets/testcases/employee/emp-list.gif" alt="사원 목록 조회"/>
 
 - 사원 등록
   <img src="assets/testcases/employee/emp-create.gif" alt="사원 등록"/>
@@ -1316,24 +1316,92 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <br>
 
 <details>
-<summary>마이페이지</summary>
+<summary>결재 관리</summary>
 
-- 임시 테스트
+<details>
+<summary>결재 목록 조회</summary>
 
-<img src="assets/testcases/test/test.gif" alt="임시"/>
+- 전체 목록 조회  
+  <img src="assets/testcases/approve/결재_전체 결재 목록 조회.gif" alt="전체 결재 목록 조회" />
 
-- 임시 테스트
+- 받은 문서 목록 조회  
+  <img src="assets/testcases/approve/결재_받은 결재 문서 목록 조회.gif" alt="받은 결재 문서 목록 조회" />
 
-<img src="assets/testcases/test/test.gif" alt="임시"/>
+- 보낸 문서 목록 조회  
+  <img src="assets/testcases/approve/결재_보낸 결재 문서 목록 조회.gif" alt="보낸 결재 문서 목록 조회" />
 
-- 내 계약서 조회
+</details>
 
-<img src="assets/testcases/mypage/my-contracts.gif" alt="임시"/>
+<details>
+<summary>결재 상세 조회</summary>
+
+- 결재 상세 조회
+  <img src="assets/testcases/approve/결재_결재 문서 상세 조회.gif" alt="결재 문서 상세 조회" />
+
+</details>
+
+<details>
+<summary>결재 문서 작성</summary>
+- 출퇴근 정정  
+  <img src="assets/testcases/approve/결재_결재 작성_출퇴근 정정.gif" alt="출퇴근 정정" />
+
+- 출장  
+  <img src="assets/testcases/approve/결재_결재 작성_출장.gif" alt="출장" />
+
+- 초과 근무  
+  <img src="assets/testcases/approve/결재_결재 작성_초과 근무.gif" alt="초과 근무" />
+
+- 재택 근무  
+  <img src="assets/testcases/approve/결재_결재 작성_재택 근무.gif" alt="재택 근무" />
+
+- 휴가  
+  <img src="assets/testcases/approve/결재_결재 작성_휴가.gif" alt="휴가" />
+
+- 품의서  
+  <img src="assets/testcases/approve/결재_결재 작성_품의서.gif" alt="품의서" />
+
+- 영수증  
+  <img src="assets/testcases/approve/결재_결재 작성_영수증.gif" alt="영수증" />
+
+- 취소  
+  <img src="assets/testcases/approve/결재_결재 작성_취소.gif" alt="취소" />
+
+</details>
+
+
+<details>
+<summary>결재 문서 수정</summary>
+
+- 결재 문서 수정
+  <img src="assets/testcases/approve/결재_결재 문서 수정.gif" alt="결재 문서 수정" />
+
+</details>
+
+<details>
+<summary>결재 문서 회수</summary>
+
+- 결재 문서 회수 성공  
+  <img src="assets/testcases/approve/결재_결재 회수 성공.gif" alt="결재 회수 성공" />
+
+- 결재 문서 회수 실패  
+  <img src="assets/testcases/approve/결재_회수 실패.gif" alt="결재 회수 실패" />
+
+</details>
+
+<details>
+<summary>결재 문서 승인/반려</summary>
+
+- 결재 문서 승인
+  <!-- 승인 이미지 필요 시 여기에 삽입 -->
+
+- 결재 문서 반려
+  <!-- 반려 이미지 필요 시 여기에 삽입 -->
+
+</details>
 
 </details>
 
 <br>
-
 
 ---
 
