@@ -1244,9 +1244,17 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 
 ### 11. 🧪 테스트 케이스 상세
 
-- 메인 테스트
-  <img src="assets/testcases/test/test_formal.gif" alt="메인 테스트"/>
 
+<details>
+<summary>대시보드</summary>
+
+- 출퇴근 정정
+  <img src="assets/testcases/dashboard/대시보드_출퇴근 정정.gif" alt="출퇴근 정정"/>
+
+- 결재 문서함 이동
+  <img src="assets/testcases/dashboard/대시보드_결재 문서함 이동.gif" alt="결재 문서함 이동"/>
+
+</details>
 <br>
 
 <details>
@@ -1308,8 +1316,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <summary>근태 관리</summary>
 
 - 근태 내역 조회
-
-<img src="assets/testcases/work/work-list.gif" alt="근태 내역 조회"/>
+ <img src="assets/testcases/work/work-list.gif" alt="근태 내역 조회"/>
 
 </details>
 
@@ -1393,10 +1400,10 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <summary>결재 문서 승인/반려</summary>
 
 - 결재 문서 승인
-  <!-- 승인 이미지 필요 시 여기에 삽입 -->
+  <img src="assets/testcases/approve/결재_결재 승인.gif" alt="결재 승인" />
 
 - 결재 문서 반려
-  <!-- 반려 이미지 필요 시 여기에 삽입 -->
+  <img src="assets/testcases/approve/결재_결재 반려.gif" alt="결재 반려" />
 
 </details>
 
