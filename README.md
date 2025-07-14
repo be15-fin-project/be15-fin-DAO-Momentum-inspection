@@ -1250,6 +1250,34 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <br>
 
 <details>
+<summary>인증</summary>
+
+- 로그인
+  <img src="assets/testcases/common/1_로그인.gif" alt="로그인"/>
+
+- 비밀번호 재설정 요청
+  <img src="assets/testcases/common/2_비밀번호 재설정 요청.gif" alt="비밀번호 재설정 요청"/>
+
+- 비밀번호 재설정
+  <img src="assets/testcases/common/3_비밀번호 재설정.gif" alt="비밀번호 재설정"/>
+</details>
+
+<br>
+
+<details>
+<summary>회사 정보</summary>
+
+- 회사 정보 조회
+  <img src="assets/testcases/company/4_회사 정보 조회.gif" alt="회사 정보 조회"/>
+
+- 조직도 조회
+  <img src="assets/testcases/company/5_조직도 조회.gif" alt="회사 정보 조회"/>
+
+</details>
+
+<br>
+
+<details>
 <summary>출퇴근</summary>
 
 - 출근 등록
@@ -1310,6 +1338,21 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 - 근태 내역 조회
 
 <img src="assets/testcases/work/work-list.gif" alt="근태 내역 조회"/>
+
+</details>
+
+<br>
+
+<details>
+<summary>내정보</summary>
+
+- 내 정보 조회
+
+<img src="assets/testcases/mypage/6_내정보%20조회.gif" alt="내 정보 조회"/>
+
+- 내 계약서 조회
+
+<img src="assets/testcases/mypage/my-contracts.gif" alt="내 계약서 조회"/>
 
 </details>
 
@@ -1398,6 +1441,33 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 - 결재 문서 반려
   <!-- 반려 이미지 필요 시 여기에 삽입 -->
 
+</details>
+
+</details>
+
+<br>
+
+<br>
+
+<details>
+<summary>설정</summary>
+<details>
+<summary>회사 설정</summary>
+- 회사 수정
+<img src="assets/testcases/setting/7_회사%20설정%20페이지.gif" alt="회사 수정"/>
+</details>
+
+<details>
+<summary>부서 설정</summary>
+- 부서 생성
+<img src="assets/testcases/setting/8_부서관리-부서생성.gif" alt="부서 생성"/>
+
+- 부서 수정
+  <img src="assets/testcases/setting/9_부서관리-부서%20수정.gif" alt="부서 수정"/>
+</details>
+
+- 부서 삭제
+  <img src="assets/testcases/setting/10_부서%20관리-부서%20삭제.gif" alt="부서 삭제"/>
 </details>
 
 </details>
