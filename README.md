@@ -1342,6 +1342,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 
 <details>
 <summary>결재 문서 작성</summary>
+    
 - 출퇴근 정정  
   <img src="assets/testcases/approve/결재_결재 작성_출퇴근 정정.gif" alt="출퇴근 정정" />
 
