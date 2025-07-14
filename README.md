@@ -1854,6 +1854,102 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 </details>
 <br>
 
+<details>
+<summary>🖥️ 설정</summary>
+
+<br>
+
+<details> 
+<summary> &emsp;회사 설정</summary>
+
+- 회사 설정 페이지
+  <img src="assets/testcases/setting/7_회사 설정 페이지.gif" alt="회사 설정 페이지" />
+
+<br>
+
+</details> 
+
+<br> 
+
+<details> 
+
+<summary> &emsp;부서 관리</summary>
+
+- 부서 생성
+  <img src="assets/testcases/setting/8_부서관리-부서생성.gif" alt="부서 생성" />
+
+<br>
+
+- 부서 수정
+  <img src="assets/testcases/setting/9_부서관리-부서 수정.gif" alt="부서 수정" />
+
+<br>
+
+- 부서 삭제
+  <img src="assets/testcases/setting/10_부서 관리-부서 삭제.gif" alt="부서 삭제" />
+
+<br>
+
+</details> 
+
+<br>
+
+<details> 
+<summary> &emsp;직위 관리</summary>
+
+- 직위 생성
+  <img src="assets/testcases/setting/11_직위 관리-직위 생성.gif" alt="직위 생성" />
+
+<br>
+
+- 직위 수정
+  <img src="assets/testcases/setting/12_직위 관리-직위 수정.gif" alt="직위 수정" />
+
+<br>
+
+- 직위 삭제
+  <img src="assets/testcases/setting/13_직위 관리-직위 삭제.gif" alt="직위 삭제" />
+
+<br>
+
+</details> 
+
+<br> 
+
+<details> 
+<summary> &emsp;권한 관리</summary>
+
+- 권한 수정
+  <img src="assets/testcases/setting/14_권한관리-권한 수정.gif" alt="권한 수정" />
+
+<br>
+
+</details> 
+
+<br> 
+
+<details> 
+<summary> &emsp;휴일 관리</summary>
+
+- 휴일 조회
+  <img src="assets/testcases/setting/15_휴일관리-휴일 조회.gif" alt="휴일 조회" />
+
+<br>
+
+- 휴일 생성
+  <img src="assets/testcases/setting/16_휴일관리-휴일생성.gif" alt="휴일 생성" />
+
+<br>
+
+- 휴일 삭제
+  <img src="assets/testcases/setting/17_휴일관리-휴일삭제.gif" alt="휴일 삭제" />
+
+<br>
+
+</details>
+
+</details>
+
 ---
 
 ### 13. 🗄️ 빌드 및 배포
