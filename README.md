@@ -1162,11 +1162,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 
 🔗 [DDD 링크](https://miro.com/app/board/uXjVIwveahs=/?share_link_id=57339969023)
 
-<img src="assets/images/DDD_1.jpg" alt="DDD"/>
-
-<br>
-
-<img src="assets/images/DDD_2.jpg" alt="DDD" width="550"/>
+<img src="assets/images/DDD.jpg" alt="DDD"/>
 
 <br>
 
@@ -1241,7 +1237,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 
 ### 11. 📚 SWAGGER 문서
 
-[swagger_api.pdf](assets/api-docs/Swagger_API.pdf)
+[swagger_api.pdf](assets/api-docs/SWAGGER-API.pdf)
 
 <img src="assets/images/swagger.jpg" alt="swagger"/>
 
@@ -1254,7 +1250,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 
 
 <details>
-<summary>대시보드</summary>
+<summary>🖥️ 대시보드</summary>
 
 - 출퇴근 정정
   <img src="assets/testcases/dashboard/대시보드_출퇴근 정정.gif" alt="출퇴근 정정"/>
@@ -1262,11 +1258,20 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 - 결재 문서함 이동
   <img src="assets/testcases/dashboard/대시보드_결재 문서함 이동.gif" alt="결재 문서함 이동"/>
 
+- 대시보드 - KPI  
+  <img src="assets/testcases/retention/대시보드-KPI.gif" alt="대시보드 - KPI" />
+
+- 대시보드 - 캘린더 KPI  
+  <img src="assets/testcases/retention/대시보드-캘린더-KPI.gif" alt="대시보드 - 캘린더 KPI" />
+
+- 대시보드 - 캘린더 평가  
+  <img src="assets/testcases/retention/대시보드-캘린더-평가.gif" alt="대시보드 - 캘린더 평가" />
+
 </details>
 <br>
 
 <details>
-<summary>출퇴근</summary>
+<summary>🖥️ 출퇴근</summary>
 
 - 출근 등록
   <img src="assets/testcases/work/work-create.gif" alt="출근 등록"/>
@@ -1279,7 +1284,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <br>
 
 <details>
-<summary>사원 관리</summary>
+<summary>🖥️ 사원 관리</summary>
 
 - 사원 목록 조회
   <img src="assets/testcases/employee/emp-list.gif" alt="사원 목록 조회"/>
@@ -1321,7 +1326,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <br>
 
 <details>
-<summary>근태 관리</summary>
+<summary>🖥️ 근태 관리</summary>
 
 - 근태 내역 조회
  <img src="assets/testcases/work/work-list.gif" alt="근태 내역 조회"/>
@@ -1331,10 +1336,10 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <br>
 
 <details>
-<summary>결재 관리</summary>
+<summary>🖥️ 결재 관리</summary>
 
 <details>
-<summary>결재 목록 조회</summary>
+<summary> &emsp;결재 목록 조회</summary>
 
 - 전체 목록 조회  
   <img src="assets/testcases/approve/결재_전체 결재 목록 조회.gif" alt="전체 결재 목록 조회" />
@@ -1347,16 +1352,20 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 
 </details>
 
+<br>
+
 <details>
-<summary>결재 상세 조회</summary>
+<summary> &emsp;결재 상세 조회</summary>
 
 - 결재 상세 조회
   <img src="assets/testcases/approve/결재_결재 문서 상세 조회.gif" alt="결재 문서 상세 조회" />
 
 </details>
 
+<br>
+
 <details>
-<summary>결재 문서 작성</summary>
+<summary> &emsp;결재 문서 작성</summary>
     
 - 출퇴근 정정  
   <img src="assets/testcases/approve/결재_결재 작성_출퇴근 정정.gif" alt="출퇴근 정정" />
@@ -1384,17 +1393,20 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 
 </details>
 
+<br>
 
 <details>
-<summary>결재 문서 수정</summary>
+<summary> &emsp;결재 문서 수정</summary>
 
 - 결재 문서 수정
   <img src="assets/testcases/approve/결재_결재 문서 수정.gif" alt="결재 문서 수정" />
 
 </details>
 
+<br>
+
 <details>
-<summary>결재 문서 회수</summary>
+<summary> &emsp;결재 문서 회수</summary>
 
 - 결재 문서 회수 성공  
   <img src="assets/testcases/approve/결재_결재 회수 성공.gif" alt="결재 회수 성공" />
@@ -1404,8 +1416,11 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 
 </details>
 
+<br>
+
+
 <details>
-<summary>결재 문서 승인/반려</summary>
+<summary> &emsp;결재 문서 승인/반려</summary>
 
 - 결재 문서 승인
   <img src="assets/testcases/approve/결재_결재 승인.gif" alt="결재 승인" />
@@ -1414,6 +1429,320 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
   <img src="assets/testcases/approve/결재_결재 반려.gif" alt="결재 반려" />
 
 </details>
+
+</details>
+
+<br>
+
+
+<details>
+<summary> 🖥️ 평가 관리 </summary>
+
+<br>
+
+<details>
+<summary> KPI </summary>
+
+<br>
+
+<details>
+<summary> &emsp;KPI 등록 및 승인 흐름</summary>
+
+- KPI 등록  
+  <img src="assets/testcases/evaluation/KPI등록.gif" alt="KPI 등록" />
+
+<br>
+
+- KPI 조회  
+  <img src="assets/testcases/evaluation/KPI조회.gif" alt="KPI 조회" />
+
+<br>
+
+- KPI 승인  
+  <img src="assets/testcases/evaluation/KPI승인.gif" alt="KPI 승인" />
+
+<br>
+
+- KPI 반려  
+  <img src="assets/testcases/evaluation/KPI반려.gif" alt="KPI 반려" />
+
+<br>
+
+- KPI 철회  
+  <img src="assets/testcases/evaluation/KPI철회.gif" alt="KPI 철회" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;KPI 수정 및 최신화</summary>
+
+- KPI 최신화  
+  <img src="assets/testcases/evaluation/KPI최신화.gif" alt="KPI 최신화" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;KPI 취소 처리 흐름</summary>
+
+- KPI 취소 신청  
+  <img src="assets/testcases/evaluation/KPI취소신청.gif" alt="KPI 취소 신청" />
+
+<br>
+
+- KPI 취소 승인  
+  <img src="assets/testcases/evaluation/KPI취소승인.gif" alt="KPI 취소 승인" />
+
+<br>
+
+- KPI 취소 반려  
+  <img src="assets/testcases/evaluation/KPI취소반려.gif" alt="KPI 취소 반려" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;KPI 분석 및 통계</summary>
+
+- KPI 분석 - 대시보드  
+  <img src="assets/testcases/evaluation/KPI분석-대시보드.gif" alt="KPI 분석 - 대시보드" />
+
+<br>
+
+- KPI 분석 - 엑셀  
+  <img src="assets/testcases/evaluation/KPI분석-엑셀.gif" alt="KPI 분석 - 엑셀" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;사원 KPI 개별 보기</summary>
+
+- 사원별 KPI  
+  <img src="assets/testcases/evaluation/사원별KPI.gif" alt="사원별 KPI" />
+
+</details>
+
+<br>
+
+</details>
+
+<br>
+
+
+<details>
+<summary> 다면 평가 </summary>
+
+<br>
+
+<details>
+<summary> &emsp;사원 간 평가</summary>
+
+- 사원간 평가  
+  <img src="assets/testcases/evaluation/사원간평가.gif" alt="사원간 평가" />
+
+<br>
+
+- 사원간 평가 - 엑셀  
+  <img src="assets/testcases/evaluation/사원간평가-엑셀.gif" alt="사원간 평가 - 엑셀" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;조직 평가</summary>
+
+- 조직 평가  
+  <img src="assets/testcases/evaluation/조직평가.gif" alt="조직 평가" />
+
+<br>
+
+- 조직 평가 - 엑셀  
+  <img src="assets/testcases/evaluation/조직평가-엑셀.gif" alt="조직 평가 - 엑셀" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;자가 진단 평가</summary>
+
+- 자가 진단  
+  <img src="assets/testcases/evaluation/자가진단.gif" alt="자가 진단" />
+
+<br>
+
+- 자가 진단 - 엑셀  
+  <img src="assets/testcases/evaluation/자가진단-엑셀.gif" alt="자가 진단 - 엑셀" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;평가 제출</summary>
+
+- 평가 제출  
+  <img src="assets/testcases/evaluation/평가제출.gif" alt="평가 제출" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp; 평가 회차 조회</summary>
+
+- 평가 회차  
+  <img src="assets/testcases/evaluation/평가회차.gif" alt="평가 회차" />
+
+<br>
+
+- 평가 회차 등록  
+  <img src="assets/testcases/evaluation/평가회차-등록.gif" alt="평가 회차 등록" />
+
+<br>
+
+- 평가 회차 수정  
+  <img src="assets/testcases/evaluation/평가회차-수정.gif" alt="평가 회차 수정" />
+
+<br>
+
+- 평가 회차 삭제  
+  <img src="assets/testcases/evaluation/평가회차-삭제.gif" alt="평가 회차 삭제" />
+</details>
+
+</details>
+
+<br>
+
+<details>
+<summary> 인사 평가</summary>
+
+<br>
+
+<details>
+<summary> &emsp;인사 평가 내역</summary>
+
+- 인사 평가 내역  
+  <img src="assets/testcases/evaluation/인사평가내역.gif" alt="인사 평가 내역" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;인사 평가 이의제기 등록 및 삭제</summary>
+
+- 인사 평가 이의제기 등록  
+  <img src="assets/testcases/evaluation/인사평가-이의제기등록.gif" alt="인사 평가 이의제기 등록" />
+
+<br>
+
+- 인사 평가 이의제기 삭제  
+  <img src="assets/testcases/evaluation/인사평가-이의제기삭제.gif" alt="인사 평가 이의제기 삭제" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;이의제기 승인 및 반려 처리</summary>
+
+- 이의제기 승인  
+  <img src="assets/testcases/evaluation/이의제기-승인.gif" alt="이의제기 승인" />
+
+<br>
+
+- 이의제기 반려  
+  <img src="assets/testcases/evaluation/이의제기-반려.gif" alt="이의제기 반려" />
+
+</details>
+
+</details>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+<summary>🖥️ 근속 전망</summary>
+
+<br>
+
+<details>
+<summary> 근속 전망</summary>
+
+<br>
+
+<details>
+<summary> &emsp;근속 전망 대시보드</summary>
+
+- 근속전망 - 대시보드  
+  <img src="assets/testcases/retention/근속전망-대시보드.gif" alt="근속전망 - 대시보드" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;근속 전망 회차 및 지수 관리</summary>
+
+- 근속전망 - 회차 등록  
+  <img src="assets/testcases/retention/근속전망-회차등록.gif" alt="근속전망 - 회차 등록" />
+
+<br>
+
+- 근속전망 - 지수  
+  <img src="assets/testcases/retention/근속전망-지수.gif" alt="근속전망 - 지수" />
+
+</details>
+
+<br>
+
+<details>
+<summary> &emsp;근속 전망 엑셀 다운로드</summary>
+
+- 근속전망 - 엑셀  
+  <img src="assets/testcases/retention/근속전망-엑셀.gif" alt="근속전망 - 엑셀" />
+
+</details>
+
+</details>
+
+<br>
+
+<details>
+<summary>면담 요청</summary>
+
+- 근속전망 - 면담요청  
+  <img src="assets/testcases/retention/근속전망-면담요청.gif" alt="근속전망 - 면담요청" />
+
+<br>
+
+- 면담 요청  
+  <img src="assets/testcases/retention/면담요청.gif" alt="면담 요청" />
+
+<br>
+
+- 면담 보고  
+  <img src="assets/testcases/retention/면담보고.gif" alt="면담 보고" />
+
+<br>
+
+- 면담 피드백  
+  <img src="assets/testcases/retention/면담 피드백.gif" alt="면담 피드백" />
+
+</details>
+
+<br>
 
 </details>
 
