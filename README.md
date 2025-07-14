@@ -1876,7 +1876,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <summary> &emsp;부서 관리</summary>
 
 - 부서 생성
-  <img src="assets/testcases/setting/8_부서관리-부서생성.gif" alt="부서 생성" />
+  <img src="assets/testcases/setting/8_부서관리-부서_생성.gif" alt="부서 생성" />
 
 <br>
 
