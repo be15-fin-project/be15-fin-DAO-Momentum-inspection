@@ -1250,33 +1250,66 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <br>
 
 <details>
-<summary>임시</summary>
+<summary>출퇴근</summary>
 
-- 임시 테스트
+- 출근 등록
+<img src="assets/testcases/work/work-create.gif" alt="출근 등록"/>
 
-<img src="assets/testcases/test/test.gif" alt="임시"/>
-
-</details>
-
-<br>
-
-<details>
-<summary>임시</summary>
-
-- 임시 테스트
-
-<img src="assets/testcases/test/test.gif" alt="임시"/>
+- 퇴근 등록
+<img src="assets/testcases/work/work-update.gif" alt="퇴근 등록"/>
 
 </details>
 
 <br>
 
 <details>
-<summary>임시</summary>
+<summary>사원 관리</summary>
 
-- 임시 테스트
+- 사원 목록 조회
+<img src="assets/testcases/employee/emp-list.gif" alt="사원 목록 조회"/>
 
-<img src="assets/testcases/test/test.gif" alt="임시"/>
+- 사원 등록
+  <img src="assets/testcases/employee/emp-create.gif" alt="사원 등록"/>
+
+- CSV 양식 다운로드
+  <img src="assets/testcases/employee/csv-download.gif" alt="CSV 양식 다운로드"/>
+
+- 사원 CSV 일괄 등록
+  <img src="assets/testcases/employee/csv-upload.gif" alt="사원 CSV 일괄 등록"/>
+
+- 사원 프로필 조회
+  <img src="assets/testcases/employee/admin-emp-details.gif" alt="사원 프로필 조회"/>
+
+- 사원 기본 정보 수정
+  <img src="assets/testcases/employee/admin-update-empinfo.gif" alt="사원 기본 정보 수정"/>
+
+- 사원 인사 정보 수정
+  <img src="assets/testcases/employee/admin-update-record.gif" alt="사원 인사 정보 수정"/>
+
+- 인사 발령 내역 조회
+  <img src="assets/testcases/employee/appoint-list.gif" alt="인사 발령 내역 조회"/>
+
+- 인사 발령 등록
+  <img src="assets/testcases/employee/appoint-create.gif" alt="인사 발령 등록"/>
+
+- 계약서 목록 조회
+  <img src="assets/testcases/employee/admin-contract-list.gif" alt="계약서 목록 조회"/>
+
+- 계약서 등록
+  <img src="assets/testcases/employee/contract-create.gif" alt="계약서 등록"/>
+
+- 계약서 삭제
+  <img src="assets/testcases/employee/contract-delete.gif" alt="계약서 삭제"/>
+</details>
+
+<br>
+
+<details>
+<summary>근태 관리</summary>
+
+- 근태 내역 조회
+
+<img src="assets/testcases/work/work-list.gif" alt="근태 내역 조회"/>
 
 </details>
 
