@@ -1253,7 +1253,7 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <summary>출퇴근</summary>
 
 - 출근 등록
-  <img src="assets/testcases/work/work-creat`e.gif" alt="출근 등록"/>
+  <img src="assets/testcases/work/work-create.gif" alt="출근 등록"/>
 
 - 퇴근 등록
   <img src="assets/testcases/work/work-update.gif" alt="퇴근 등록"/>
