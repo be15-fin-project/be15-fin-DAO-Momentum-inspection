@@ -3236,8 +3236,8 @@ INSERT INTO `eval_score` (`property_id`, `result_id`, `score`) VALUES
 (101,1166,78), (111,1167,70), (121,1168,79);                       -- [1166][1167][1168]
 
 
-INSERT INTO hr_objection (
-    result_id, writer_id, status_id, reason, response, created_at, response_at, is_deleted
+INSERT INTO `hr_objection` (
+    `result_id`, `writer_id`, `status_id`, `reason`, `response`, `created_at`, `response_at`, `is_deleted`
 )
 VALUES
 -- 대기 상태 (status_id = 1)
@@ -3259,3 +3259,18 @@ VALUES
 (859, 32, 2, '개인 사유로 이의 제기를 철회합니다.', NULL, '2025-06-28 14:00:00', NULL, 'Y'),
 (861, 31, 2, '사유 해소로 이의 철회합니다.', NULL, '2025-06-28 14:00:00', NULL, 'Y'),
 (865, 33, 2, '단순 실수로 인한 철회 요청입니다.', NULL, '2025-06-28 14:00:00', NULL, 'Y');
+
+INSERT INTO `hr_objection` (
+    `result_id`, `writer_id`, `status_id`, `reason`, `response`, `created_at`, `response_at`, `is_deleted`
+)
+VALUES
+-- 취소 상태 (status_id = 2, is_deleted = 'Y')
+(2, 2, 2, '단순 이의 철회 요청입니다.', NULL, '2024-01-29 14:00:00', NULL, 'Y'),
+(223, 2, 2, '사유 해소로 인해 철회합니다.', NULL, '2024-07-29 14:00:00', NULL, 'Y'),
+(545, 2, 2, '개인 판단에 따라 이의 취소.', NULL, '2025-01-29 14:00:00', NULL, 'Y'),
+
+-- 대기 상태 (status_id = 1)
+(857, 2, 1, '역할 변동이 반영되지 않았습니다.', NULL, '2025-06-28 14:00:00', NULL, 'N'),
+
+-- 반려 상태 (status_id = 3)
+(545, 2, 3, '성과가 과소평가되었습니다.', '증빙 부족으로 반려 처리되었습니다.', '2025-01-29 14:00:00', '2025-02-01 10:00:00', 'N');
