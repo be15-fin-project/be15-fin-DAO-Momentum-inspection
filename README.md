@@ -1485,7 +1485,7 @@ Momentum은 단순 예측 기능을 넘어
 
 ### 3. 🔄 플로우 차트 & UML
 
-<img src="assets/images/flowchart_approval.png" alt="flowchart" width="450"/>
+<img src="assets/images/flowchart_approval.png" alt="flowchart"/>
 
 <br>
 
@@ -1496,37 +1496,37 @@ Momentum은 단순 예측 기능을 넘어
 
 
 - 사원 등록 플로우 차트
-  <img src="assets/images/flowchart_employee.png" alt="flowchart" width="450"/>
+  <img src="assets/images/flowchart_employee.png" alt="flowchart"/>
 
 <br>
 
 - 결재 플로우 차트
-  <img src="assets/images/flowchart_approval.png" alt="flowchart" width="450"/>
+  <img src="assets/images/flowchart_approval.png" alt="flowchart"/>
 
 <br>
 
 - KPI 플로우 차트
-  <img src="assets/images/flowchart_KPI.png" alt="flowchart" width="450"/>
+  <img src="assets/images/flowchart_KPI.png" alt="flowchart"/>
 
 <br>
 
 - 평가 플로우 차트
-  <img src="assets/images/flowchart_eval.png" alt="flowchart" width="450"/>
+  <img src="assets/images/flowchart_eval.png" alt="flowchart"/>
 
 <br>
 
 - 인사 평가 플로우 차트
-  <img src="assets/images/flowchart_hr.png" alt="flowchart" width="450"/>
+  <img src="assets/images/flowchart_hr.png" alt="flowchart"/>
 
 <br>
 
 - 근속 전망 플로우 차트
-  <img src="assets/images/flowchart_retention.png" alt="flowchart" width="450"/>
+  <img src="assets/images/flowchart_retention.png" alt="flowchart"/>
 
 <br>
 
 - 챗봇 플로우 차트
-  <img src="assets/images/flowchart_chatbot.png" alt="flowchart" width="450"/>
+  <img src="assets/images/flowchart_chatbot.png" alt="flowchart"/>
 
 </details> 
 
