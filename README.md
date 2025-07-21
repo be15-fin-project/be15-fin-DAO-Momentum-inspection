@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td align="center">근태 및 사원 관리</td>
-    <td align="center">평가 관리</td>
+    <td align="center">평가 관리, 근속 전망</td>
     <td align="center">인적 사항 관리</td>
     <td align="center">챗봇, 알림, 공지사항</td>
     <td align="center">결재 관리</td>
@@ -1214,11 +1214,50 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 
 ### 3. 🔄 플로우 차트 & UML
 
-<img src="assets/images/flowchart.png" alt="flowchart" width="450"/>
+<img src="assets/images/flowchart_approval.png" alt="flowchart" width="450"/>
 
 <br>
 
-<img src="assets/images/UML.png" alt="UML" width="750"/>
+<br>
+
+<details> 
+<summary> 플로우 차트</summary> 
+
+
+- 사원 등록 플로우 차트
+  <img src="assets/images/flowchart_employee.png" alt="flowchart" width="450"/>
+
+<br>
+
+- 결재 플로우 차트
+  <img src="assets/images/flowchart_approval.png" alt="flowchart" width="450"/>
+
+<br>
+
+- KPI 플로우 차트
+  <img src="assets/images/flowchart_KPI.png" alt="flowchart" width="450"/>
+
+<br>
+
+- 평가 플로우 차트
+  <img src="assets/images/flowchart_eval.png" alt="flowchart" width="450"/>
+
+<br>
+
+- 인사 평가 플로우 차트
+  <img src="assets/images/flowchart_hr.png" alt="flowchart" width="450"/>
+
+<br>
+
+- 근속 전망 플로우 차트
+  <img src="assets/images/flowchart_retention.png" alt="flowchart" width="450"/>
+
+<br>
+
+- 챗봇 플로우 차트
+  <img src="assets/images/flowchart_chatbot.png" alt="flowchart" width="450"/>
+
+</details> 
 
 <br>
 
@@ -1239,10 +1278,6 @@ Momentum는 현재의 인사 및 평가 체계에 안주하지 않고,
 <img src="assets/images/physical_erd.png" alt="ERD"/>
 
 <br>
-<br>
-
-
-<img src="assets/images/logic_erd.png" alt="ERD" width="550"/>
 
 <br>
 
