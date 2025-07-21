@@ -2390,7 +2390,7 @@ Momentum은 단순 예측 기능을 넘어
 - 빌드된 정적 웹 리소스를 Amazon S3에 업로드합니다.
 - S3 버킷은 프론트엔드 배포용 호스팅으로 사용됨 (CloudFront 연계 가능)
 
-  <img src="assets/images/CI,CD plan.png" alt="CI/CD 계획서" />
+  <img src="assets/images/CI_CD_plan.png" alt="CI/CD 계획서" />
 
 <br>
 
